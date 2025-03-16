@@ -9,6 +9,8 @@
  o Tools
 
  o Exploratory Data Analysis
+ 
+ o Insights
 
  o Recomendation 
 
