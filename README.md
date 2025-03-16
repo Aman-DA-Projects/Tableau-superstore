@@ -20,12 +20,14 @@ The goal of this project is to analyze the sales performance, customer trends, a
 
 # Data source
 
-  Data : Two data are used 
+  Data : Two data are used:
+  
          o Superstore  and  Netflix
 
 # Tools
 
-  o Tableau- For Data visualization 
+  o Tableau- For Data visualization
+  
   o Excel and Powerquery for Data cleaning & Data Manipulation
   
 #  EDA Questions:
